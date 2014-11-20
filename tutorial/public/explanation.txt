@@ -1,0 +1,4 @@
+PUBLIC
+images
+stylesheets
+"public-facing assets"
